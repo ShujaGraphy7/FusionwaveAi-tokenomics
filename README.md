@@ -1,0 +1,2 @@
+# FusionwaveAi-tokenomics
+FusionwaveAI Tokenomics
